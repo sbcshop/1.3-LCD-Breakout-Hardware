@@ -14,7 +14,7 @@ The 1.3” LCD breakout is colorful and easy to experiment with graphics. The di
  - ST7789 Display Driver
 
 ## Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/1.3-LCD-Breakout-Hardware/tree/main/Design%20Data) - This directory contains Schematic
+  - [/Design Data](https://github.com/sbcshop/1.3-LCD-Breakout-Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View.
   - [/Mecahnical Data](https://github.com/sbcshop/1.3-LCD-Breakout-Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
 
 ## Related Products
