@@ -18,13 +18,13 @@ The 1.3” LCD breakout is colorful and easy to experiment with graphics. The di
   - [/Mecahnical Data](https://github.com/sbcshop/1.3-LCD-Breakout-Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
 
 ## Related Products
-  * [4 Channel IO Level Breakout]() 
+  * [1.28" Round LCD Breakout](https://shop.sb-components.co.uk/products/1-28-round-lcd-breakout?_pos=2&_sid=aa1a4c610&_ss=r) 
    
-     ![4 Channel IO Level Breakout]()   
+     ![1.28" Round LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_a58fb20c-7cc7-4908-bfca-549b28c721b6.png?v=1677234693&width=300)   
 
-  * [8 Bit Level Shifter]() 
+  * [1.14" LCD Breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout?_pos=1&_sid=8dab247c9&_ss=r) 
    
-     ![8 Bit Level Shifter]() 
+     ![1.14" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/1.14InchLCDBreakout.png?v=1622801461&width=300) 
 
  
 ## Product License
